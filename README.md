@@ -42,8 +42,6 @@ Deep Fake Detection Model/
 
 ---
 
-*Document Type: DOCX*
-
 ## Table of Contents
 
   - [**WORK SUMMARY**](#work-summary)
