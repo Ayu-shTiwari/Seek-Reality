@@ -6,7 +6,7 @@
 
 ## Project Demo
 
-🎬 **Demo Video:** [demo.mp4](./demo.mp4)
+🎬 **Demo Video:** [demo.mp4](https://ayu-shtiwari.github.io/Seek-Reality)
 
 > The `demo.mp4` file demonstrates the SeekReality platform in action, showing the process of uploading media and detecting deepfakes in real time.
 
