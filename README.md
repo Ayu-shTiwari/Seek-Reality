@@ -1,4 +1,4 @@
-# REALME
+# Seek-Reality : DeepFake Detection Model
 
 <p align="center">
   <img src="https://img.shields.io/badge/Deepfake-Detection-blue" alt="Deepfake Detection"/>
