@@ -47,7 +47,7 @@ Deep Fake Detection Model/
   - [**WORK SUMMARY**](#work-summary)
   - [**1. Motivation Behind the Project**](#1-motivation-behind-the-project)
   - [**2. Type of Project**](#2-type-of-project)
-    - [**3. Critical Analysis of Research Papers and Technologies Learned**](#3-critical-analysis-of-research-papers-and-technologies-learned)
+  - [**3. Critical Analysis of Research Papers and Technologies Learned**](#3-critical-analysis-of-research-papers-and-technologies-learned)
   - [**Technologies Learned:**](#technologies-learned)
   - [**4. Overall Design of the Project**](#4-overall-design-of-the-project)
   - [**5. Features Built and Programming Languages Used**](#5-features-built-and-programming-languages-used)
@@ -173,10 +173,7 @@ Auth0 for security.
 **Output**: If score > 0.6 → **Real**, else → **Fake**.
 
 
-
-
-
-## ** Video-Level Detection (****MesoLSTM****)**
+## ** Video-Level Detection 
 
 
 **Input**: Video file.
